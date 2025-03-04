@@ -2,11 +2,11 @@
     <div>
         <header>
             <nav>
-                <h1 class ="logo">Jetturong reungthong</h1>
+                <h1 class ="logo"> Jetturong Shop</h1>
                 <NuxtLink to="/">หน้าแรก</NuxtLink> |
                 <NuxtLink to="/about">เกี่ยวกับเรา</NuxtLink> |
-                <!-- <NuxtLink to="/products">สินค้า</NuxtLink> | -->
-                <NuxtLink to="/products/detail">สินค้าทั้งหมด</NuxtLink> |
+                <NuxtLink to="/products">สินค้าทั้งหมด</NuxtLink> |
+                <!-- <NuxtLink to="/products/detail">รายละเอียดสินค้าทั้งหมด</NuxtLink> | -->
                 
             </nav>
         </header>
